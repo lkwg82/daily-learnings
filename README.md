@@ -1,5 +1,10 @@
 # daily-learnings
 
+#### 2020.08.14 - AWS Cloudwatch Loggroups werden von Lambda per Konvention benutzt 
+
+Lambda Funktionen können nicht konfiguriert werden, gewisse Loggroups zu benutzen, sondern
+ sie loggen (wenn sie dürfen) nach `/aws/lambda/<functionName>`.
+
 #### 2020.08.13 - Verbindung zwischen AWS SNS und AWs Lambda
 
 Die Verbindung zwischen sns topics und lambda ist eine subscription. War mir neu.
