@@ -1,5 +1,12 @@
 # daily-learnings
 
+#### 2020.08.17 - Loslassen und Konflikte ungelöst lassen ist nicht schlimm
+
+Der Abschied eines Teammitgliedes ist immer etwas schmerzhaft. Allerdings enden damit auch 
+Konflikte die sehr stark aus der Persönlichkeit des Mitgliedes getrieben wurden. Das ist auf der einen
+Seite unbefriedigend, weil ungelöst und damit unfertig, auf der anderen Seite aber auch
+befreiend, weil sie einfach "aufhören".  
+
 #### 2020.08.14 - AWS Cloudwatch Loggroups werden von Lambda per Konvention benutzt 
 
 Lambda Funktionen können nicht konfiguriert werden, gewisse Loggroups zu benutzen, sondern
