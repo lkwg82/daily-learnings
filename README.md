@@ -1,5 +1,15 @@
 # daily-learnings
 
+#### 2020.08.19 - Dysfunktionale Kundenbeziehung wirkt sehr stark
+
+In einem Gespräch wurde klar, dass der Kunde so stark in das operative Arbeit drängt, dass es
+sich wie Mikromanagement anfühlt. 
+ 
+#### 2020.08.18 - In Terraform kann ich subnet-ids abrufen
+
+Ich hatte erst Konstanten für die subnet ids im Code. Wurde daraufhin gewiesen, das vpc und die zugehörigen 
+subnet ids abzurufen. Klappt wunderbar.  
+
 #### 2020.08.17 - Loslassen und Konflikte ungelöst lassen ist nicht schlimm
 
 Der Abschied eines Teammitgliedes ist immer etwas schmerzhaft. Allerdings enden damit auch 
