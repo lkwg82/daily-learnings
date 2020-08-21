@@ -1,5 +1,16 @@
 # daily-learnings
 
+
+#### 2020.08.21 - Remote Meetings müssen gelernt sein
+
+In Meetings braucht es Mittel zur Fokusierung und Ergebnissicherung, 
+sonst dreht sich alles im Kreis.
+
+#### 2020.08.20 - Taskbreakdown und Storysplitting hilft bei Iterationen
+
+Es hilft Ergebnisse zu kommunizieren, wenn Aufgaben nicht zu generisch sind und auch 
+den aktuellen Stand abbilden. Somit ist auch ein Fokuswechsel möglich, auch wenn nicht wünschenswert. 
+
 #### 2020.08.19 - Dysfunktionale Kundenbeziehung wirkt sehr stark
 
 In einem Gespräch wurde klar, dass der Kunde so stark in das operative Arbeit drängt, dass es
