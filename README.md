@@ -1,5 +1,33 @@
 # daily-learnings
 
+#### 2020.09.01 - Unsicherheit als verstecktes Hemmnis
+
+Ich erkenne mehr und mehr, dass Überforderung in Situationen 
+deutlich - auch für mich selbst - von großer Unsicherheit begleitet wird.
+Gedanke: Eventuell kann über eine Selbstbefragung zu Selbstsicherheit Aufschluss geben?
+
+#### 2020.08.28 - Oracle DB + APEX ist eine Bitch
+
+Ich bin frustriert, wenn ich 1h für eine Iteration warten muss (Aufsetzen einer Oracle DB in AWS). 
+
+#### 2020.08.27 - korrigierendes Feedback geben ist schwer
+
+Habe heute Feedback zu gestrigem Meeting gegeben. Ich hätte es auch besser vorbereiten sollen. Wie einen Vortrag.
+
+#### 2020.08.26 - Meetings brauchen Vorbereitung
+
+Heute an einem Meeting teilgenommen, bei dem offensichtlich kein Gedanke an das Publikum verschwendet wurde.
+Genauso hat es sich angefühlt: ohne roten Faden, ein Sammelsurium an Details.
+Bin frustriert raus.  
+ 
+#### 2020.08.25 - Renovatebot 
+
+Heute den Renovatebot und einen Teil der Automatisierung der Wartung kennengelernt, 
+die dadurch abgenommen werden kann. Cool. 
+
+#### 2020.08.24 - Pulumi gibt es neben Terraform auch
+
+Terraform als IaC Tool ist beliebt, allerdings Pulumi hat auch Potential.
 
 #### 2020.08.21 - Remote Meetings müssen gelernt sein
 
