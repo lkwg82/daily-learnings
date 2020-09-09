@@ -1,5 +1,13 @@
 # daily-learnings
 
+#### 2020.09.08 - Ohne Backup fühlt sich im Fehlerfall doof an
+
+Heute aus Versehen einige ungesicherte Arbeitsergebnisse von zwei Tagen gelöscht. Kein Backup --> kein Fallback.
+
+#### 2020.09.04 - Gutes Tooling macht produktiv
+
+Heute Pipeship mit der Auslieferung in die zentrale Dockerregistry ausprobiert und eingesetzt. Sehr smooth.
+
 #### 2020.09.01 - Unsicherheit als verstecktes Hemmnis
 
 Ich erkenne mehr und mehr, dass Überforderung in Situationen 
