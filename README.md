@@ -1,5 +1,28 @@
 # daily-learnings
 
+#### 2020.09.15 - Codegenerierung für Permissionmatrix
+
+Ein kompliziertes Berechtigungsschema abzugleichen und zu dokumentieren ist schwierig.
+Warum also nicht, aus der Dokumentation die Implementierung generieren?
+
+Mal sehen, ob es sich als Schnapsidee herausstellt. 
+ 
+#### 2020.09.14 - Incidentprozess 
+
+Was gut war, wird gern wiederholt.
+
+#### 2020.09.11 - renovatebot nice
+
+Maintenance zu automatisieren fühlt sich gut an - erste Schritte.
+
+#### 2020.09.10 - AWS Berechtigungen sind tricky
+
+IAM Policy und Bucket Policy debugging ist schwer, zumal noch winzige Asynchronitäten dazu kommen.
+
+#### 2020.09.09 - Pre-commit hooks sind gut
+
+Die Feedbackschleife wieder etwas kleiner zu machen, macht produktiv.
+
 #### 2020.09.08 - Ohne Backup fühlt sich im Fehlerfall doof an
 
 Heute aus Versehen einige ungesicherte Arbeitsergebnisse von zwei Tagen gelöscht. Kein Backup --> kein Fallback.
