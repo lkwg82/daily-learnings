@@ -1,5 +1,14 @@
 # daily-learnings
 
+#### 2020.09.18 - An automatisierten Tests führt letztendlich nichts vorbei
+
+Ich habe versucht mir einzureden, die Tests später machen zu können. Geht aber dann gibt es eben 
+öfter mal dumme blöde Fehler, die dann peinlich sind. 
+
+#### 2020.09.17 - Nicht nutzbare CMK erzeugen ein Access Denied in S3
+
+#### 2020.09.16 - KMS Schlüssel brauchen auch Berechtigungen
+
 #### 2020.09.15 - Codegenerierung für Permissionmatrix
 
 Ein kompliziertes Berechtigungsschema abzugleichen und zu dokumentieren ist schwierig.
