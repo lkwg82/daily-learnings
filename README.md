@@ -1,5 +1,25 @@
 # daily-learnings
 
+
+#### 2020.09.24 - Murphies Law - unbefriedigender Abschluss
+
+Ich wußte, dass wenn ich bis 16 Uhr mit meinem Skript nicht fertig bin, dass
+ich dann mit dem harten Termin um 18:00 höchstwahrscheinlich bei dem kleinsten
+Problem nicht fertig werde und unbefriedigt abbrechen muss. War leider genau so. 
+
+#### 2020.09.23 - Vorstellung PoC
+
+Eine geplante Vorstellung der Arbeitsergebnisse bringt eine gewisse Verbindlichkeit. 
+
+#### 2020.09.22 - Remote Mobprogramming
+
+Stündliches rotieren hat alle bei Laune gehalten. Kann wiederholt werden.
+
+#### 2020.09.21 - Effektives Taskbreakdown vor PoC
+
+Wir haben vor einem 2 Tags PoC einen Taskbreakdown gemacht und 
+etliche Lösungsvarianten angeschaut. War sehr effektiv.
+ 
 #### 2020.09.18 - An automatisierten Tests führt letztendlich nichts vorbei
 
 Ich habe versucht mir einzureden, die Tests später machen zu können. Geht aber dann gibt es eben 
