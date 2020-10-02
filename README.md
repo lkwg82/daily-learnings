@@ -1,6 +1,25 @@
 # daily-learnings
 
 
+#### 2020.10.02 - 
+
+
+#### 2020.10.01 - Aufräumen und Vorarbeiten abschließen fühlt sich gut an
+
+Haben heute eine Planskizze für ein Projekt abgehakt und einen wichtigen Meilenstein genommen.
+Unbekannte Ideen, haben wir gelöscht und verworfen und nicht ins Backlog gepackt. Alle waren einverstanden.
+"Lean" kommt langsam.
+ 
+#### 2020.09.29 - TDD macht den Fortschritt stabil
+
+Wieder erfahren, dass TDD den erreichten Fortschritt bei einer Implementierung sehr gut sichert. Zumal, wenn spät noch 
+delikate Fehler erkannt werden. Somit ist das Refaktoring im Nu erledigt ;).
+
+#### 2020.09.28 - Es ist nicht schlimm wenn ein PoC nicht gelingt
+
+Wir haben letzte Woche zwei Tage einen PoC gemacht. Diese Umsetzung hat sich als nicht nachhaltig erwiesen. Dann machen wir 
+heute noch einen. Waren ja nur zwei Tage. Zwei Tages Experimente. 
+
 #### 2020.09.24 - Murphies Law - unbefriedigender Abschluss
 
 Ich wußte, dass wenn ich bis 16 Uhr mit meinem Skript nicht fertig bin, dass
