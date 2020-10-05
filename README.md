@@ -1,8 +1,9 @@
 # daily-learnings
 
 
-#### 2020.10.02 - 
+#### 2020.10.02 - Netzwerksecurity mit Proxies ist ein "Heidenspaß"
 
+Peu à peu Domain um Domain freigeschaltet, um renovatebot ohne Fehler zum Laufen zu bekommen. 
 
 #### 2020.10.01 - Aufräumen und Vorarbeiten abschließen fühlt sich gut an
 
