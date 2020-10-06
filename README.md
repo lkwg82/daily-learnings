@@ -1,6 +1,10 @@
 # daily-learnings
 
 
+#### 2020.10.05 - Timeboxen beim Debuggen machen Sinn
+
+Habe zu lange an einem Weg festgehalten, statt eine Heuristik in Betracht zu ziehen.
+
 #### 2020.10.02 - Netzwerksecurity mit Proxies ist ein "Heidenspaß"
 
 Peu à peu Domain um Domain freigeschaltet, um renovatebot ohne Fehler zum Laufen zu bekommen. 
