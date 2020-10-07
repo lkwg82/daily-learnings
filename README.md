@@ -1,6 +1,14 @@
 # daily-learnings
 
 
+#### 2020.10.06 - Fallbacks sind nicht immer gut
+
+Wir haben eine Logik für die Adressung von KMS Keys implementiert. Diese fällt 
+auf einen Generalschlüssel zurück, wenn kein passender Schlüssel gefunden wird.
+Zudem ist die Verwendung und Erstellung eben dieser in verschiedenen Repos getrennt umgesetzt. 
+Infolgedessen wird nun nach den ersten initial erstellten Schlüsseln, nur noch
+überall der Generalschlüssel verwendet.
+
 #### 2020.10.05 - Timeboxen beim Debuggen machen Sinn
 
 Habe zu lange an einem Weg festgehalten, statt eine Heuristik in Betracht zu ziehen.
