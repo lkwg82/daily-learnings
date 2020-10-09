@@ -1,6 +1,11 @@
 # daily-learnings
 
 
+#### 2020.10.07 - Viele Unterbrechungen kürzen die Zeit überproportional
+
+Heute einen halben Tag für eine Sache Zeit gehabt. Dabei drei Unterbrechungen, so dass es sich im 
+Endeffekt wie 2 Stunden angefühlt hat.
+
 #### 2020.10.06 - Fallbacks sind nicht immer gut
 
 Wir haben eine Logik für die Adressung von KMS Keys implementiert. Diese fällt 
