@@ -1,6 +1,16 @@
 # daily-learnings
 
 
+#### 2020.10.13 - Schlechte UI frustriert
+
+Heute mit IBM Netcool versucht unser Monitoring zu integrieren. 
+Die UI ist gelinde gesagt etwas aus der Zeit gefallen.
+
+#### 2020.10.09 - Akzeptanzkriterien im Blick behalten
+
+Ich habe die Akzeptanzkriterien nicht im Blick gehabt und zuviel implementiert. Habe es dabei etwas 
+Mocking in Python geübt, den Code allerdings wieder weggeworfen.
+
 #### 2020.10.07 - Viele Unterbrechungen kürzen die Zeit überproportional
 
 Heute einen halben Tag für eine Sache Zeit gehabt. Dabei drei Unterbrechungen, so dass es sich im 
