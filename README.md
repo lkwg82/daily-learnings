@@ -1,6 +1,10 @@
 # daily-learnings
 
 
+#### 2020.10.14 - Keine Oracle Software einsetzen
+
+Heute mit APEX und dem aktivieren des REST Listeners zu tun gehabt. Ein Krampf dazu sinnvolle Dokumnetation zu finden.
+
 #### 2020.10.13 - Schlechte UI frustriert
 
 Heute mit IBM Netcool versucht unser Monitoring zu integrieren. 
