@@ -1,5 +1,9 @@
 # daily-learnings
 
+#### 2020.10.19 - Konzeptionsarbeit ist die schwer
+
+Den ganzen Tag kleine Versatzstücke für die Woche zusammengesucht und an einem Konzept 
+weitergearbeitet. Kleinteilige Konzeptarbeit ist am schwersten.
 
 #### 2020.10.14 - Keine Oracle Software einsetzen
 
