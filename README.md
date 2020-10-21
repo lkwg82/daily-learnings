@@ -1,5 +1,9 @@
 # daily-learnings
 
+#### 2020.10.20 - lose Kopplung mit hoher Latenz vermeiden
+
+Manchmal müssen auch crossproject Tests sein. AMI Packer Lauf und Terraform KMS Policy Definition. 
+
 #### 2020.10.19 - Konzeptionsarbeit ist die schwer
 
 Den ganzen Tag kleine Versatzstücke für die Woche zusammengesucht und an einem Konzept 
