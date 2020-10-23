@@ -1,5 +1,16 @@
 # daily-learnings
 
+
+#### 2020.10.22 - Gruppenarbeit hilft den Fokus zu halten
+
+Unliebsame Aufgaben verleiten mich gern zu prokrastinieren. In solchen Momenten hilft Gruppenarbeit oder
+regelmäßige "Syncs".
+
+#### 2020.10.21 - oft und frühzeitig auf kurze Feedbackschleifen optimieren
+
+Ich dachte, es wird nicht lange dauern. Jeder Iteration hat 6mins gedauert. Im Endeffekt musste ich nach 2h abbrechen, weil meine Zeit zu Ende war.
+Am nächsten Tag auf 1min Feedback innerhalb von 6mins optimiert. Nach 5 Iterationen, also ca. 10mins war ich fertig. 
+
 #### 2020.10.20 - lose Kopplung mit hoher Latenz vermeiden
 
 Manchmal müssen auch crossproject Tests sein. AMI Packer Lauf und Terraform KMS Policy Definition. 
@@ -8,6 +19,11 @@ Manchmal müssen auch crossproject Tests sein. AMI Packer Lauf und Terraform KMS
 
 Den ganzen Tag kleine Versatzstücke für die Woche zusammengesucht und an einem Konzept 
 weitergearbeitet. Kleinteilige Konzeptarbeit ist am schwersten.
+
+#### 2020.10.15 - Mikrofon an oder aus?
+
+Aus einer Beobachtung gelernt, es lohnt sich während einer Konferenz 
+den Status des Mikrofons im Auge zu behalten. 
 
 #### 2020.10.14 - Keine Oracle Software einsetzen
 
