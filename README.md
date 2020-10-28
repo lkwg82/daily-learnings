@@ -1,6 +1,10 @@
 # daily-learnings
 
 
+#### 2020.10.27 - ADR strukturiert erstellt
+
+Ich habe gelernt, dass beim Erstellen eines ADRs ein schmales Template + ISO 9126 sehr gut leiten.
+
 #### 2020.10.22 - Gruppenarbeit hilft den Fokus zu halten
 
 Unliebsame Aufgaben verleiten mich gern zu prokrastinieren. In solchen Momenten hilft Gruppenarbeit oder
