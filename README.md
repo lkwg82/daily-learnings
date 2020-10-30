@@ -1,6 +1,10 @@
 # daily-learnings
 
 
+#### 2020.10.28 - Online braucht es *auch* gute Präsentationen
+
+Mir hilft es die Agenda zu sehen, statt das Arbeitsmaterial gezeigt zu bekommen und die Agenda zu hören.
+
 #### 2020.10.27 - ADR strukturiert erstellt
 
 Ich habe gelernt, dass beim Erstellen eines ADRs ein schmales Template + ISO 9126 sehr gut leiten.
