@@ -1,6 +1,14 @@
 # daily-learnings
 
 
+#### 2020.11.06 - Oracle RDS verwendet selbst signierte Zertifikate
+
+Bäääh. Dem folgt ein ganzer Rattenschwanz an Problemen.
+
+#### 2020.11.05 - AWS Session Manager hat auch eine KMS Verschlüsselung
+
+Diese kann auch mit nicht existenten CMKs konfiguriert werden und dann bekommt man ganz komische Fehlermeldungen.
+
 #### 2020.10.28 - Online braucht es *auch* gute Präsentationen
 
 Mir hilft es die Agenda zu sehen, statt das Arbeitsmaterial gezeigt zu bekommen und die Agenda zu hören.
