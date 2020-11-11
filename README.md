@@ -1,5 +1,12 @@
 # daily-learnings
 
+#### 2020.11.10 - Oracle RDS kann Native Network Encryption (NNE)
+
+Einfach nur aktivieren und dann ist die Verbindung verschlüsselt. MITM ist damit allerdings immer noch möglich.
+
+#### 2020.11.09 - GfK kennt den Begriff des "Konfliktfastens"
+
+Sehr interessant.
 
 #### 2020.11.06 - Oracle RDS verwendet selbst signierte Zertifikate
 
