@@ -1,5 +1,9 @@
 # daily-learnings
 
+#### 2020.11.11 - Packer braucht auf dem erstellten AMI scp
+
+Wollte gestern openssh auf einem AMI deinstallieren, schlug fehl.
+
 #### 2020.11.10 - Oracle RDS kann Native Network Encryption (NNE)
 
 Einfach nur aktivieren und dann ist die Verbindung verschlüsselt. MITM ist damit allerdings immer noch möglich.
