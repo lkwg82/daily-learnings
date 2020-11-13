@@ -1,5 +1,9 @@
 # daily-learnings
 
+#### 2020.11.11 - IAM Rechte + Policies sind komplex
+
+Das Herausfinden der passenden Rechte für eine Rolle ist ganz schön schwierig.
+
 #### 2020.11.11 - Packer braucht auf dem erstellten AMI scp
 
 Wollte gestern openssh auf einem AMI deinstallieren, schlug fehl.
