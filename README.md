@@ -1,5 +1,16 @@
 # daily-learnings
 
+#### 2020.11.18 - Lizenzierung kann eine nitcht-triviale Hürde sein
+
+Am Beispiel von Exasol.
+
+#### 2020.11.17 - Modularisierung braucht Systemverständnis
+
+Aus einem lokalen Monolithen Teile herausschneiden und verteilen ist komplex.
+Zumal mit jeder Verschiebung von Code an anderer Stelle neue Probleme auftreten können.
+
+#### 2020.11.16 - Es gibt viele Facetten von Diversity
+
 #### 2020.11.13 - Vuejs ist nett
 
 #### 2020.11.12 - IAM Rechte + Policies sind komplex
