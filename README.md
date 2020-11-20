@@ -1,5 +1,8 @@
 # daily-learnings
 
+#### 2020.11.20 - viel über renovatebot gelernt
+
+
 #### 2020.11.19 - Verhalten von Gut bzgl. submodules ist zwischen den Versionen erheblich
 
 #### 2020.11.18 - Lizenzierung kann eine nicht-triviale Hürde sein
