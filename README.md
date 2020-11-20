@@ -1,6 +1,8 @@
 # daily-learnings
 
-#### 2020.11.18 - Lizenzierung kann eine nitcht-triviale Hürde sein
+#### 2020.11.19 - Verhalten von Gut bzgl. submodules ist zwischen den Versionen erheblich
+
+#### 2020.11.18 - Lizenzierung kann eine nicht-triviale Hürde sein
 
 Am Beispiel von Exasol.
 
