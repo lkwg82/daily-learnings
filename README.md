@@ -1,5 +1,7 @@
 # daily-learnings
 
+#### 2020.11.24 - ECS kennen gelernt
+
 #### 2020.11.20 - viel über renovatebot gelernt
 
 
