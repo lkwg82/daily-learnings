@@ -1,5 +1,7 @@
 # daily-learnings
 
+#### 2020.12.03 - Den Tag ungeplant mit Warten verbringen frustriert
+
 #### 2020.11.24 - ECS kennen gelernt
 
 #### 2020.11.20 - viel über renovatebot gelernt
